@@ -1,6 +1,4 @@
-# 💫 About Me
-
-Hi there 👋  
+Hi there ✨ 
 I am a Computer Engineering graduate focusing on Deep Reinforcement Learning and its applications in Robotics and Decision-Making problems.
 
 ### Core Research Interests and Expertise
@@ -40,7 +38,4 @@ I am a Computer Engineering graduate focusing on Deep Reinforcement Learning and
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sarmadzandi)
 
-## GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Sarmadzandi&theme=prussian&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sarmadzandi&theme=prussian&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarmadzandi&theme=prussian&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
