@@ -11,11 +11,11 @@ I am a Computer Engineering graduate focusing on Deep Reinforcement Learning and
 ### 📫 How to Reach Me: [sarmadzandi@gmail.com](mailto:sarmadzandi@gmail.com)
 
 ## Programming Languages
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) 
+![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=plastic&logo=latex&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white)
 
 ## RL/ML/DL
 ![OpenAI Gym](https://img.shields.io/badge/OpenAI%20Gym-%2334A853.svg?style=plastic&logo=google&logoColor=white)
@@ -33,7 +33,7 @@ I am a Computer Engineering graduate focusing on Deep Reinforcement Learning and
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?style=plastic&logo=unreal-engine&logoColor=white)
 
 ## Version Control
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
 
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sarmadzandi)
