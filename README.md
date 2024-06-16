@@ -9,7 +9,9 @@ I am a Computer Engineering graduate focusing on Deep Reinforcement Learning and
 - **Statistical Analysis**
 - **Decision-Making Problems**
 
-### 📫 How to Reach Me: [sarmadzandi@gmail.com](mailto:sarmadzandi@gmail.com)
+### 📫 How to Reach Me: 
+- Email: [sarmadzandi@gmail.com](mailto:sarmadzandi@gmail.com)
+- LinkedIn: [linkedin.com/in/sarmadzandi](https://linkedin.com/in/sarmadzandi) 
 
 ## Programming Languages
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) 
@@ -39,8 +41,5 @@ I am a Computer Engineering graduate focusing on Deep Reinforcement Learning and
 
 ## Version Control
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
-
-## Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sarmadzandi)
 
 
