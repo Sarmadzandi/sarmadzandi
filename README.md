@@ -1,4 +1,5 @@
 Hi there ✨ 
+
 I am a Computer Engineering graduate focusing on Deep Reinforcement Learning and its applications in Robotics and Decision-Making problems.
 
 ### Core Research Interests and Expertise
@@ -20,7 +21,10 @@ I am a Computer Engineering graduate focusing on Deep Reinforcement Learning and
 ## RL/ML/DL Tools 
 ![OpenAI Gym](https://img.shields.io/badge/OpenAI%20Gym-%2334A853.svg?style=plastic&logo=google&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) 
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) 
 ![Stable Baselines](https://img.shields.io/badge/Stable%20Baselines-%230099cc.svg?style=plastic&logo=github&logoColor=white)
 ![PettingZoo](https://img.shields.io/badge/PettingZoo-%23FF9900.svg?style=plastic&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-%23FFA500.svg?style=plastic&logo=opencv&logoColor=white)
