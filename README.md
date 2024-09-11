@@ -4,7 +4,7 @@ I am a Computer Engineering graduate focusing on Deep Reinforcement Learning and
 
 ### Core Research Interests and Expertise
 - **Reinforcement Learning**
-- **Machine Learning and Applications**
+- **Applied Machine Learning**
 - **Robotics**
 - **Statistical Analysis and Inference**
 - **Decision-Making Problems**
