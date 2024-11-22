@@ -7,6 +7,7 @@ I am a Computer Engineering graduate focusing on Deep Reinforcement Learning and
 - **Applied Machine Learning**
 - **Robotics**
 - **Statistical Analysis and Inference**
+- **Computational Cognitive Science**
 - **Decision-Making Problems**
 
 ### 📫 How to Reach Me: 
